@@ -1,26 +1,35 @@
-<img width="1584" height="396" alt="Linkedin Banner" src="https://github.com/user-attachments/assets/8f9d4035-94f9-4c9f-a16c-336baf5dcad7" />![Header](https://Linkedin Banner.png)
+<!-- Banner -->
+<img width="100%" src="https://github.com/user-attachments/assets/8f9d4035-94f9-4c9f-a16c-336baf5dcad7" alt="LinkedIn Banner" />
 
-## Hi I'm Ali 👋
+## 👋 Hi, I'm Ali Mahmood Rana  
 
-<!--
-💻 Full Stack Developer | 🚀 Open Source Enthusiast | 🎨 Creative Thinker.
+💻 Full Stack Developer | 🚀 Open Source Enthusiast | 🎨 Creative Thinker  
 
-## 🚀 About Me
-- 🌱 Currently learning **Next.js & Node.js**
-- 💬 Ask me about **React, APIs, Python**
-- 🛠 Contributing to Open Source
-- 🎯 Goal: Build impactful digital products
+---
 
--->
+## 🚀 About Me  
+- 🌱 Currently learning **Next.js & Node.js**  
+- 💬 Ask me about **React, APIs, Python**  
+- 🛠 Contributing to Open Source  
+- 🎯 Goal: Build impactful digital products  
 
-![GitHub followers](https://img.shields.io/github/followers/AliRana30?style=social)
-![Profile views](https://komarev.com/ghpvc/?username=AliRana30&color=purple&style=flat-square)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AliRana30&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliRana30&layout=compact&theme=radical)
+## 📊 GitHub Stats  
+![GitHub followers](https://img.shields.io/github/followers/AliRana30?style=social)  
+![Profile views](https://komarev.com/ghpvc/?username=AliRana30&color=purple&style=flat-square)  
 
-💼 [LinkedIn]([https://www.linkedin.com/in/ali-mahmood-rana-7093322a7/])  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AliRana30&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliRana30&layout=compact&theme=radical)  
 
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
+---
 
+## 🔗 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ali-mahmood-rana-7093322a7/)  
+- 🌐 [Portfolio (Coming Soon)](#)  
 
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" />
+</p>
