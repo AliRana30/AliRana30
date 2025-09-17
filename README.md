@@ -3,7 +3,10 @@
 
 ## 👋 Hi, I'm Ali Mahmood Rana  
 
-💻 Full Stack Developer | 🚀 Open Source Enthusiast | 🎨 Creative Thinker  
+I'm a **Full Stack Developer** passionate about building scalable web applications and solving real-world problems with technology.  
+I enjoy working with modern stacks like **MERN, Next.js, and Django**, and continuously explore new tools to stay ahead.  
+With a strong foundation in **C, C++, and Python**, I bring both low-level and high-level programming expertise.  
+Beyond coding, I’m an **open-source enthusiast** who loves collaborating and sharing knowledge with the developer community.  
 
 ---
 
