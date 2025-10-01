@@ -44,7 +44,7 @@ Beyond coding, I’m an **open-source enthusiast** who loves collaborating and s
 
 ## 🔗 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ali-mahmood-rana-7093322a7/)  
-- 🌐 [Portfolio (Coming Soon)](#)  
+- 🌐 [Portfolio](https://alimahmood.vercel.app)  
 
 ---
 
