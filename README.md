@@ -1,7 +1,3 @@
-make it more professional and permissible also shows github stats like prs merged , pr requests , followers ,repositories and remove useless things
-<!-- Banner -->
-<img width="100%" src="https://github.com/user-attachments/assets/8f9d4035-94f9-4c9f-a16c-336baf5dcad7" alt="LinkedIn Banner" />
-
 ## 👋 Hi, I'm Ali Mahmood Rana  
 
 I'm a **Full Stack Developer** passionate about building scalable web applications and solving real-world problems with technology.  
