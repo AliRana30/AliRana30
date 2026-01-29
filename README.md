@@ -1,7 +1,7 @@
 <!-- Banner -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ali%20Mahmood%20Rana&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Header"/>
-</div>
+<p align="center">
+  <img width="100%" src="https://github.com/user-attachments/assets/8f9d4035-94f9-4c9f-a16c-336baf5dcad7" alt="Banner" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Ali Mahmood Rana</h1>
 
