@@ -1,5 +1,4 @@
 <!-- Banner --> <img width="100%" src="https://github.com/user-attachments/assets/8f9d4035-94f9-4c9f-a16c-336baf5dcad7" alt="LinkedIn Banner" />
-<h1 align="center">Hi 👋, I'm Ali Mahmood Rana</h1>
 
 <p align="center">
   Full Stack Developer passionate about building scalable web applications and solving complex problems with clean, efficient code.
