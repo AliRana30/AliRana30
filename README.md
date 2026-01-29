@@ -1,7 +1,7 @@
 <!-- Banner -->
-<p align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/8f9d4035-94f9-4c9f-a16c-336baf5dcad7" alt="Banner" />
-</p>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ali%20Mahmood%20Rana&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Header"/>
+</div>
 
 <h1 align="center">Hi 👋, I'm Ali Mahmood Rana</h1>
 
@@ -44,18 +44,18 @@
 
 ### 📈 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliRana30&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRana30&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliRana30&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRana30&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliRana30&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliRana30&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+</div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliRana30&theme=tokyonight" alt="Profile Summary" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliRana30&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
 
 ---
 
