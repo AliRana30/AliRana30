@@ -1,4 +1,14 @@
-<!-- Banner --> <img width="100%" src="https://github.com/user-attachments/assets/8f9d4035-94f9-4c9f-a16c-336baf5dcad7" alt="LinkedIn Banner" />
+<!-- Banner -->
+<!-- 
+  To use your custom banner image:
+  1. Create a folder in your repo (e.g., 'assets' or '.github')
+  2. Upload your banner image there
+  3. Replace the URL below with: https://raw.githubusercontent.com/AliRana30/AliRana30/main/assets/your-banner.png
+-->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3FAAFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ali+Mahmood+Rana;Full+Stack+Developer;MERN+%7C+Next.js+%7C+Django" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   Full Stack Developer passionate about building scalable web applications and solving complex problems with clean, efficient code.
@@ -39,18 +49,14 @@
 
 ### 📈 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliRana30&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRana30&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AliRana30&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=AliRana30&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakLabel=70a5fd" alt="GitHub Streak"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliRana30&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliRana30&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRana30&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" alt="Top Languages"/>
+</p>
 
 ---
 
