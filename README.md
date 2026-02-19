@@ -28,13 +28,7 @@ Beyond building products, I'm an **open-source enthusiast** who believes in the 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliRana30&show_icons=true&theme=dark&hide_border=true&title_color=FF6B00&icon_color=FF6B00&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRana30&layout=compact&theme=dark&hide_border=true&title_color=FF6B00&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AliRana30&theme=onedark&no-frame=true&row=1&column=6&margin-w=10" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliRana30&bg_color=0d1117&color=FF6B00&line=FF6B00&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
