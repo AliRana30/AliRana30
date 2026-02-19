@@ -38,7 +38,7 @@ Beyond building products, I'm an **open-source enthusiast** who believes in the 
 <p align="center">
   <img src="https://img.shields.io/github/followers/AliRana30?style=social" alt="GitHub Followers" />
   &nbsp;
-  <img src="https://komarun.com/ghpvc/?username=AliRana30&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AliRana30&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
 <p align="center">
