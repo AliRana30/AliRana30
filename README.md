@@ -35,9 +35,9 @@ Beyond building products, I'm an **open-source enthusiast** who believes in the 
 
 ## 📈 Contribution Summary
 
-![PRs opened](https://img.shields.io/badge/PRs%20Opened-6-FF6B00?style=for-the-badge&logo=github&logoColor=white)
-![PRs merged](https://img.shields.io/badge/PRs%20Merged-0-FF6B00?style=for-the-badge&logo=github&logoColor=white)
-![Commits 2026](https://img.shields.io/badge/Commits%20(2026)-fill_this-FF6B00?style=for-the-badge&logo=git&logoColor=white)
+![PRs Opened](https://img.shields.io/badge/PRs%20Opened-6-FF6B00?style=for-the-badge&logo=github&logoColor=white)
+![PRs Merged](https://img.shields.io/badge/PRs%20Merged-2-FF6B00?style=for-the-badge&logo=github&logoColor=white)
+![Commits 2026](https://img.shields.io/badge/Commits%202026-$(git%20log%20--oneline%20--after="2026-01-01")-FF6B00?style=for-the-badge&logo=git&logoColor=white)
 
 --- 
 
