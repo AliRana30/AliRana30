@@ -33,6 +33,14 @@ Beyond building products, I'm an **open-source enthusiast** who believes in the 
 
 ---
 
+## 📈 Contribution Summary
+
+![PRs opened](https://img.shields.io/badge/PRs%20Opened-6-FF6B00?style=for-the-badge&logo=github&logoColor=white)
+![PRs merged](https://img.shields.io/badge/PRs%20Merged-0-FF6B00?style=for-the-badge&logo=github&logoColor=white)
+![Commits 2026](https://img.shields.io/badge/Commits%20(2026)-fill_this-FF6B00?style=for-the-badge&logo=git&logoColor=white)
+
+--- 
+
 ## 🔗 Connect With Me
 
 <p align="center">
