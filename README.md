@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Ali Mahmood Rana
 I'm a **Software Engineer** with a passion for building scalable, performant, and user-centric applications from the ground up. I specialize in full-stack web development, with deep expertise across modern frontend and backend ecosystems.
-
-I thrive at the intersection of clean architecture and elegant UI — whether architecting REST/GraphQL APIs, crafting responsive interfaces, or optimizing systems at a lower level in **C and C++**. I continuously explore emerging technologies to keep my work sharp and future-proof.
-
 Beyond building products, I'm an **open-source enthusiast** who believes in the power of community-driven software and knowledge sharing.
 
 ---
