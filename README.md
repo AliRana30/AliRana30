@@ -15,7 +15,9 @@ Beyond building products, I'm an **open-source enthusiast** who believes in the 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,redis,graphql,git,vercel&theme=dark" />
 </p>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
+</p>
 ---
 
 ## 📊 GitHub Stats
