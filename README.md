@@ -9,15 +9,19 @@ Beyond building products, I'm an **open-source enthusiast** who believes in the 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python&theme=dark" />
 </p>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,reactnative&theme=dark" />
 </p>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,redis,graphql,git,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,graphql,git,npm,postman,vercel,render&theme=dark" />
 </p>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
+  <img src="https://img.shields.io/badge/Gemini-AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
+
 ---
 
 ## 📊 GitHub Stats
