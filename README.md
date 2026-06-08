@@ -11,11 +11,15 @@ Beyond building products, I'm an **open-source enthusiast** who believes in the 
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,reactnative&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,reactnative&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,redis,graphql,git,npm,postman,vercel,render&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,git,npm,postman,vercel,render&theme=dark" />
 </p>
 
 <p align="center">
