@@ -7,22 +7,11 @@ Beyond building products, I'm an **open-source enthusiast** who believes in the 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,react,nextjs,redux,reactnative&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,reactnative&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,redis,git,npm,postman,vercel,render&theme=dark" />
-</p>
-
-<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,redis,git,npm,postman,vercel,render&theme=dark" />
   <img src="https://img.shields.io/badge/Gemini-AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
