@@ -12,7 +12,6 @@ Beyond building products, I'm an **open-source enthusiast** who believes in the 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,redis,git,npm,postman,vercel,render&theme=dark" />
-  <img src="https://img.shields.io/badge/Gemini-AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 ---
